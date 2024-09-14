@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
   "%Name":"obj_hylle",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_hylle",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_hyller",
-    "path":"folders/Objects/obj_hyller.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_move_parent",
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hylle_1",
-    "path":"sprites/spr_hylle_1/spr_hylle_1.yy",
+    "name":"spr_hylle",
+    "path":"sprites/spr_hylle/spr_hylle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
