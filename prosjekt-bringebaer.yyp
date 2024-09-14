@@ -51,6 +51,7 @@
     {"id":{"name":"spr_hylle","path":"sprites/spr_hylle/spr_hylle.yy",},},
     {"id":{"name":"spr_ocean","path":"sprites/spr_ocean/spr_ocean.yy",},},
     {"id":{"name":"spr_pingvin_air","path":"sprites/spr_pingvin_air/spr_pingvin_air.yy",},},
+    {"id":{"name":"spr_pingvin_falling","path":"sprites/spr_pingvin_falling/spr_pingvin_falling.yy",},},
     {"id":{"name":"spr_pingvin","path":"sprites/spr_pingvin/spr_pingvin.yy",},},
     {"id":{"name":"spr_pingvin2_air","path":"sprites/spr_pingvin2_air/spr_pingvin2_air.yy",},},
     {"id":{"name":"spr_pingvin2","path":"sprites/spr_pingvin2/spr_pingvin2.yy",},},
