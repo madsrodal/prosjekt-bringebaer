@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hylle",
+  "%Name":"obj_move_parent",
   "eventList":[],
   "managed":true,
-  "name":"obj_hylle",
+  "name":"obj_move_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_hyller",
-    "path":"folders/Objects/obj_hyller.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_move_parent",
-    "path":"objects/obj_move_parent/obj_move_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_hylle_1",
-    "path":"sprites/spr_hylle_1/spr_hylle_1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

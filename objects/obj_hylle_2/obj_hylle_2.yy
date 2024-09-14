@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hylle",
+  "%Name":"obj_hylle_2",
   "eventList":[],
   "managed":true,
-  "name":"obj_hylle",
+  "name":"obj_hylle_2",
   "overriddenProperties":[],
   "parent":{
     "name":"obj_hyller",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hylle_1",
-    "path":"sprites/spr_hylle_1/spr_hylle_1.yy",
+    "name":"spr_hylle_2",
+    "path":"sprites/spr_hylle_2/spr_hylle_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

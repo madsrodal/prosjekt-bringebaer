@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hylle",
+  "%Name":"obj_player2",
   "eventList":[],
   "managed":true,
-  "name":"obj_hylle",
+  "name":"obj_player2",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_hyller",
-    "path":"folders/Objects/obj_hyller.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_move_parent",
-    "path":"objects/obj_move_parent/obj_move_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,9 +28,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hylle_1",
-    "path":"sprites/spr_hylle_1/spr_hylle_1.yy",
+    "name":"spr_pingvin2_air",
+    "path":"sprites/spr_pingvin2_air/spr_pingvin2_air.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_pingvin2_air",
+    "path":"sprites/spr_pingvin2_air/spr_pingvin2_air.yy",
+  },
   "visible":true,
 }
