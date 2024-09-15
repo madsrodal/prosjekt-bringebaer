@@ -26,7 +26,6 @@ if(vspeed > 0){	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDParent : 13D62692
 	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos" "other.y"
-	/// @DnDArgument : "objectid" "obj_pingvineffekt"
+	/// @DnDArgument : "objectid" "obj_pingvineffekt2"
 	/// @DnDArgument : "layer" ""Instances" "
-	/// @DnDSaveInfo : "objectid" "obj_pingvineffekt"
-	instance_create_layer(x + 0, other.y, "Instances" , obj_pingvineffekt);}
+	instance_create_layer(x + 0, other.y, "Instances" , obj_pingvineffekt2);}

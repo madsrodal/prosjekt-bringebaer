@@ -12,16 +12,16 @@ if(y > room_height + 360){	/// @DnDAction : YoYo Games.Random.Get_Random_Numbe
 	/// @DnDArgument : "var_temp" "1"
 	/// @DnDArgument : "type" "1"
 	/// @DnDArgument : "min" "200"
-	/// @DnDArgument : "max" "room_width - 20"
-	var new_x  = floor(random_range(200, room_width - 20 + 1));
+	/// @DnDArgument : "max" "room_width - 200"
+	var new_x  = floor(random_range(200, room_width - 200 + 1));
 
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
 	/// @DnDVersion : 1
 	/// @DnDHash : 2DE35C0F
 	/// @DnDParent : 69388CDE
 	/// @DnDArgument : "x" "new_x"
-	/// @DnDArgument : "y" "-50"
-	x = new_x;y = -50;
+	/// @DnDArgument : "y" "-200"
+	x = new_x;y = -200;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
