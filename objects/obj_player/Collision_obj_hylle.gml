@@ -24,7 +24,9 @@ if(vspeed > 0){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
 	/// @DnDHash : 55F77314
 	/// @DnDParent : 48A7860E
+	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos" "other.y"
 	/// @DnDArgument : "objectid" "obj_pingvineffekt"
+	/// @DnDArgument : "layer" ""Instances" "
 	/// @DnDSaveInfo : "objectid" "obj_pingvineffekt"
-	instance_create_layer(0, other.y, "Instances", obj_pingvineffekt);}
+	instance_create_layer(x + 0, other.y, "Instances" , obj_pingvineffekt);}
