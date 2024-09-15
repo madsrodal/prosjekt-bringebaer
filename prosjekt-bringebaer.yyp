@@ -35,6 +35,8 @@
   "name":"prosjekt-bringebaer",
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"obj_button_avslutt","path":"objects/obj_button_avslutt/obj_button_avslutt.yy",},},
+    {"id":{"name":"obj_button_Hjelp","path":"objects/obj_button_Hjelp/obj_button_Hjelp.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_hylle","path":"objects/obj_hylle/obj_hylle.yy",},},
