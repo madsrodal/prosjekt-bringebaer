@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_spiller1_vinner",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player2","path":"objects/obj_player2/obj_player2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_player2_guide",
+  "eventList":[],
   "managed":true,
-  "name":"obj_spiller1_vinner",
+  "name":"obj_player2_guide",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_startknapp",
-    "path":"sprites/spr_startknapp/spr_startknapp.yy",
+    "name":"spr_pingvin2_air",
+    "path":"sprites/spr_pingvin2_air/spr_pingvin2_air.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -24,7 +24,7 @@ else{}
 /// @DnDVersion : 1
 /// @DnDHash : 09B30BAC
 /// @DnDArgument : "xpos" "room_width / 2"
-/// @DnDArgument : "ypos" "room_height - 300"
+/// @DnDArgument : "ypos" "room_height - 250"
 /// @DnDArgument : "objectid" "obj_Laget_av"
 /// @DnDSaveInfo : "objectid" "obj_Laget_av"
-instance_create_layer(room_width / 2, room_height - 300, "Instances", obj_Laget_av);
+instance_create_layer(room_width / 2, room_height - 250, "Instances", obj_Laget_av);
