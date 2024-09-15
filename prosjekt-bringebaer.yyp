@@ -66,7 +66,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"roomId":{"name":"rm_game_rikke","path":"rooms/rm_game_rikke/rm_game_rikke.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
