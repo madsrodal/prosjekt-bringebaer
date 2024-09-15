@@ -60,6 +60,7 @@
     {"id":{"name":"spr_pingvin_falling","path":"sprites/spr_pingvin_falling/spr_pingvin_falling.yy",},},
     {"id":{"name":"spr_pingvin","path":"sprites/spr_pingvin/spr_pingvin.yy",},},
     {"id":{"name":"spr_pingvin2_air","path":"sprites/spr_pingvin2_air/spr_pingvin2_air.yy",},},
+    {"id":{"name":"spr_pingvin2_falling","path":"sprites/spr_pingvin2_falling/spr_pingvin2_falling.yy",},},
     {"id":{"name":"spr_pingvin2","path":"sprites/spr_pingvin2/spr_pingvin2.yy",},},
     {"id":{"name":"spr_spekkhogger","path":"sprites/spr_spekkhogger/spr_spekkhogger.yy",},},
     {"id":{"name":"spr_startknapp","path":"sprites/spr_startknapp/spr_startknapp.yy",},},
