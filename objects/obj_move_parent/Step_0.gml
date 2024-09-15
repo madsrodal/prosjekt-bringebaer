@@ -21,4 +21,14 @@ if(y > room_height + 360){	/// @DnDAction : YoYo Games.Random.Get_Random_Numbe
 	/// @DnDParent : 69388CDE
 	/// @DnDArgument : "x" "new_x"
 	/// @DnDArgument : "y" "-200"
-	x = new_x;y = -200;}
+	x = new_x;y = -200;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 2BF91FF8
+	/// @DnDParent : 69388CDE
+	/// @DnDArgument : "imageind" "random(4)"
+	/// @DnDArgument : "spriteind" "spr_hylle"
+	/// @DnDSaveInfo : "spriteind" "spr_hylle"
+	sprite_index = spr_hylle;
+	image_index = random(4);}
