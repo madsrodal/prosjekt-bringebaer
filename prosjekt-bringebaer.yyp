@@ -40,6 +40,7 @@
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_controlls","path":"objects/obj_controlls/obj_controlls.yy",},},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_hylle","path":"objects/obj_hylle/obj_hylle.yy",},},
     {"id":{"name":"obj_move_parent","path":"objects/obj_move_parent/obj_move_parent.yy",},},
     {"id":{"name":"obj_ocean","path":"objects/obj_ocean/obj_ocean.yy",},},
