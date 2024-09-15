@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
+    {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_hylle","path":"objects/obj_hylle/obj_hylle.yy",},},
     {"id":{"name":"obj_move_parent","path":"objects/obj_move_parent/obj_move_parent.yy",},},
     {"id":{"name":"obj_ocean","path":"objects/obj_ocean/obj_ocean.yy",},},
