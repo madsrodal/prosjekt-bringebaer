@@ -18,4 +18,15 @@ if(vspeed > 0){	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDArgument : "spriteind" "spr_pingvin2"
 	/// @DnDSaveInfo : "spriteind" "spr_pingvin2"
 	sprite_index = spr_pingvin2;
-	image_index = 0;}
+	image_index = 0;
+
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 7EEC2F85
+	/// @DnDParent : 13D62692
+	/// @DnDArgument : "xpos_relative" "1"
+	/// @DnDArgument : "ypos" "other.y"
+	/// @DnDArgument : "objectid" "obj_pingvineffekt"
+	/// @DnDArgument : "layer" ""Instances" "
+	/// @DnDSaveInfo : "objectid" "obj_pingvineffekt"
+	instance_create_layer(x + 0, other.y, "Instances" , obj_pingvineffekt);}
